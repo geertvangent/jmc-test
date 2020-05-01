@@ -1,4 +1,3 @@
 "utid","name","da_image","da_icon","content_compliance","path","weight","linked_tag","enable_logo","remove_from_overview_page_filters","disable_glossary_link","general_tags","meta_description"
-"2","Dermatologyi","159","","201","testda/dermatology","0","da|disease-area/dermatology","0","1","1","",""
 "3","Diabetes","8","","201","testda/diabetes","0","da|disease-area/diabetes","0","1","1","",""
 "4","prostate cancer","120","","201","testda/prostate-cancer","","da|disease-area/prostate-cancer","0","0","0","",""
