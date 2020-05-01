@@ -1,8 +1,0 @@
-"utid","name","ta_image","ta_icon","content_compliance","path","weight","linked_tag","enable_logo","remove_from_overview_page_filters","disable_glossary_link","general_tags","meta_description"
-"1","Hematology","88","5","201","test/haematology","0","ta|therapeutic-area/haematology","1","0","0","",""
-"3","Oncology","12","13","201","test/oncology","0","ta|therapeutic-area/oncology","1","0","0","",""
-"5","Infectious Disease & Vaccines","89","9","201","test/infectious-disease-vaccines","0","ta|therapeutic-area/infectious-disease-vaccines","1","1","1","","test"
-"4","Cardiovascular & Metabolism","2","3","201","test/cardiovascular-metabolism","0","ta|therapeutic-area/cardiovascular-metabolism","1","0","0","filteraccess|speciality","seo data here"
-"2","therapeutic-area/immunology","166","7","201","test/immunology","0","ta|therapeutic-area/immunology","1","1","1","","testc2jj"
-"6","Neuroscience","155","11","201","test/neuroscience","","ta|therapeutic-area/neuroscience","0","0","0","",""
-"7","TestTa_Edit_2","","","201","test/b-cell-lymphoma","","ta|therapeutic-area/b-cell-lymphoma","0","0","0","",""

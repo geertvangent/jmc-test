@@ -1,6 +1,0 @@
-"utid","name","ta_image","ta_icon","content_compliance","path","weight","linked_tag","enable_logo","remove_from_overview_page_filters","disable_glossary_link","general_tags","meta_description"
-"3","Oncology","12","13","201","test/oncology","0","ta|therapeutic-area/oncology","1","0","0","",""
-"5","Infectious Disease & Vaccines","89","9","201","test/infectious-disease-vaccines","0","ta|therapeutic-area/infectious-disease-vaccines","1","1","1","","test"
-"4","Cardiovascular & Metabolism","2","3","201","test/cardiovascular-metabolism","0","ta|therapeutic-area/cardiovascular-metabolism","1","0","0","filteraccess|speciality","seo data here"
-"6","Neuroscience","155","11","201","test/neuroscience","","ta|therapeutic-area/neuroscience","0","0","0","",""
-"8","gyna","","","201","test/gyna","0","ta|therapeutic-area/dermatology","0","0","0","",""
