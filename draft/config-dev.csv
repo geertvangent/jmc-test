@@ -1,5 +1,5 @@
 "name","value","datatype"
-"twitter_key","AtoC53Ya3CsfGpMcOJAYHvLzE",""
+"twitter_key","AtoC53Ya3CsfGpMcOJAYHvLzE2",""
 "twitter_secret","v7mnZpYx7dzdkbXwbWTcw4wCAyDBlXmomiikxF5kcZYZAdVclb",""
 "cookie_compliance_type","1","integer"
 "cookie_compliance_privacy_link","",""
@@ -289,3 +289,4 @@
 "jmc_scroll_top_page","0",""
 "hcp_modal_popup_enable","","integer"
 "jmc_iod_contact_preference","3","integer"
+"jmc_iod_show_contact_image","0",""

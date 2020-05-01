@@ -289,3 +289,4 @@
 "jmc_scroll_top_page","0",""
 "hcp_modal_popup_enable","","integer"
 "jmc_iod_contact_preference","3","integer"
+"jmc_iod_show_contact_image","0",""
