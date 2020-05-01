@@ -1,0 +1,8 @@
+utid,name,ta_image,ta_icon,content_compliance,path,weight,linked_tag,enable_logo,remove_from_overview_page_filters,disable_glossary_link,general_tags
+1,Hematology,88,5,201,therapeutic-area/haematology,,ta|therapeutic-area/haematology,0,0,0,
+3,Oncology,12,13,201,therapeutic-area/oncology,,ta|therapeutic-area/oncology,0,0,0,
+5,Infectious Disease & Vaccines,89,9,201,therapeutic-area/infectious-disease-vaccines,,ta|therapeutic-area/infectious-disease-vaccines,0,0,0,
+4,Cardiovascular & Metabolism,2,3,201,therapeutic-area/cardiovascular-metabolism,,ta|therapeutic-area/cardiovascular-metabolism,0,0,0,
+2,Immunology,166,7,201,therapeutic-area/immunology,,ta|therapeutic-area/immunology,0,0,0,
+6,Neuroscience,155,11,201,therapeutic-area/neuroscience,,ta|therapeutic-area/neuroscience,0,0,0,
+7,TestTa_Edit_2,,,201,therapeutic-area/b-cell-lymphoma,,ta|therapeutic-area/b-cell-lymphoma,0,0,0,
